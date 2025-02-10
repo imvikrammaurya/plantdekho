@@ -1,70 +1,33 @@
-# Getting Started with React Plant eCommerce Application
+# PLANT DEKHO - Plants E-commerce Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+PlantDekho – Your one-stop shop for fresh, vibrant plants! 🌿 Explore a wide range of indoor, outdoor, and decorative plants to bring nature home.
 
-## Available Scripts
+## Technologies Used
+Your PlantDekho e-commerce website is built using React and includes:
 
-In the project directory, you can run:
+- **React.js** – For building the frontend UI
+- **JavaScript (ES6+)** – For interactivity and logic
+- **HTML & CSS** – For structuring and styling
+- **React Router (if used)** – For navigation between pages
+- **API or Local Storage (if used)** – For managing product data
 
-### `npm start`
+## Screenshots
+### Home
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser..
+![Home](https://github.com/user-attachments/assets/06a27d24-85b3-4958-aee3-2805d98b6702)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### Category
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![categories](https://github.com/user-attachments/assets/76b33c49-de8f-4ec0-85cc-d1214c2f88ae)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Product
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![productadd2](https://github.com/user-attachments/assets/281077a1-eb40-4da3-a8a5-81fa6a2973e1)
+![productsub1](https://github.com/user-attachments/assets/70ef6d4c-886a-4c26-a41d-707f969d9577)
+![productadd3](https://github.com/user-attachments/assets/8fe4ac2e-2f41-4105-b27f-8beec49aaccf)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Cart
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![cart](https://github.com/user-attachments/assets/d3970d01-7564-4162-b02b-c5a23cb6a313)
