@@ -2,6 +2,17 @@ import { React, useState, useEffect, useContext } from "react";
 import { UserContext } from "../../context/user.context";
 
 import { getNextUsers, getUsers, deleteUser } from "../../utils/firebase/firebasefirestore.utils";
+import { HashRouter as Router, Route, Routes } from 'react-router-dom'; // Import HashRouter
+
+function App() {
+  return (
+    <Router> {/* Use HashRouter */}
+      <Routes>
+        {/* ... your routes */}
+      </Routes>
+    </Router>
+  );
+}
 
 const UsersTable = () => {
   const defaultFormState = {
