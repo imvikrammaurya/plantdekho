@@ -1,0 +1,36 @@
+.slider-img{
+    height: 70vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.carousel-inner {
+    position: relative;
+
+}
+.hero-section{
+    position: absolute;
+    z-index: 1;
+    
+}
+
+.herotext h1{
+    padding: 12rem 0 0 10rem;
+    font-size: 85px;
+    font-weight: bold;
+    color: #f85656; 
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2); 
+    font-family: "Poppins", sans-serif; 
+    letter-spacing: 2px; 
+    text-transform: uppercase;
+    
+}
+
+.subtext {
+    background-color: hsla(34, 78%, 91%, 0.4); /* Lighter with lower opacity */
+    margin: 2rem 0 0 4rem;
+    
+}
+
+
